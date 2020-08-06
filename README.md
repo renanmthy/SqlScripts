@@ -1,2 +1,2 @@
 # SQL-Scripts
-Algumas ferramentas que ja usei durante projetos que participei.
+Alguns scripts SQL que ja me salvaram muito. :)
