@@ -1,2 +1,2 @@
 # SQL-Scripts
-Alguns scripts SQL que ja me salvaram muito. :)
+Some SQL scripts that have saved me a lot of time. :)
