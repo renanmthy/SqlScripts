@@ -1,6 +1,0 @@
-1. Entrar no diretório abaixo e verificar o tamanho do arquivo do banco (.mdf) ou rodar o script "1. VERIFICA FRAGMENTAÇÃO TABELAS.sql".
-"C:\Program Files\Microsoft SQL Server\MSSQL12.SQLEXPRESS\MSSQL\DATA"
-
-2. Caso banco esteja com um tamanho desproporcional (5GB ou mais dependendo do tempo de uso do cliente), rodar os updates 2 e 3 em sequencia.
-
-OBS.: Alterar a variável "NOME_DO_BANCO" no script "2. SHRINKDATABASE.sql" pelo nome do banco em questão.
